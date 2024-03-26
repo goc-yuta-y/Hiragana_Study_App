@@ -1,0 +1,13 @@
+pandas
+numpy
+torch
+torchvision
+pytorch-lightning
+Pillow
+streamlit
+streamlit-drawable-canvas
+requests
+io
+fastapi
+PIL
+uvicorn
